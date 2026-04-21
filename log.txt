@@ -1,0 +1,7 @@
+2026-04-21 16:10:55 : Started program. 
+2026-04-21 16:11:00 : Searched for - Hello
+2026-04-21 16:11:02 : Searched for - Darkness
+2026-04-21 16:11:03 : Searched for - My
+2026-04-21 16:11:05 : Searched for - Old
+2026-04-21 16:11:06 : Searched for - Friend
+2026-04-21 16:11:07 : Exited program.
